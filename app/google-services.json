@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489202598079",
+    "project_id": "daily-amal-tracker-c709a",
+    "storage_bucket": "daily-amal-tracker-c709a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489202598079:android:aff14527b6ad03402fc60a",
+        "android_client_info": {
+          "package_name": "com.mostofa.dailyamaltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489202598079-h9rhap0v03234hflrc9kk8m5ogb1k8o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw4FhUg_Dd_GWyyfTGhAdo3hihiJECzT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489202598079-h9rhap0v03234hflrc9kk8m5ogb1k8o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
