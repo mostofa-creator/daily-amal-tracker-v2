@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "489202598079-eso8onk769m2rcbd6aps7hq2ka2b9hnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mostofa.dailyamaltracker",
+            "certificate_hash": "fa32f8f58c6d235f5b56eb9fdba441750e3dc1e4"
+          }
+        },
+        {
           "client_id": "489202598079-h9rhap0v03234hflrc9kk8m5ogb1k8o9.apps.googleusercontent.com",
           "client_type": 3
         }
