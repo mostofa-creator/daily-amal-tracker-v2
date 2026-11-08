@@ -258,8 +258,8 @@ public class MainActivity extends Activity {
             runOnUiThread(command);
 
         credentialManager.getCredentialAsync(
-            request,
             this,
+            request,
             null,
             mainExecutor,
             new CredentialManagerCallback<
